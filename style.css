@@ -1,0 +1,107 @@
+.body{
+    background-color: lightpink;
+}
+.navbar{
+    display: flex;
+    gap: 20%;
+    text-align: center;
+    padding-left: 20%;
+    margin-right: 20%;
+    list-style-type: none;
+}
+#h1{
+  text-align: center;  
+}
+.container{
+    text-align: center;
+    gap: 5%;
+    font-size: large;
+}
+#h4{
+    font-size: xx-large;
+}
+.snacks{
+    list-style-type: none;
+    
+}
+.vanilla{
+    display: flex;
+    gap: 20%;
+    padding-left: 20%;
+}
+.choco{
+    display: flex;
+    gap: 20%;
+    padding-left: 20%;
+}
+.donat{
+    display: flex;
+    padding-left: 20%;
+    gap: 20%;
+    
+}
+.mandazi{
+    display: flex;
+    padding-left: 20%;
+    gap: 20%;
+}
+ 
+
+.juice{
+    display: flex;
+    gap: 20%;
+    padding-left: 20%;
+}
+
+.coffee{
+    display: flex;
+    padding-left: 20%;
+    gap: 20%;
+    
+}
+
+#ndazi{
+    width: 45%;
+}
+#late{
+    width: 18%;
+}
+#nilla{
+    width: 18%;
+}
+#cof{
+    width: 18%;
+}
+ #ju{
+    width: 20%;
+ }
+ #menu{
+   width: 30%; 
+ }
+ #form{
+    display: grid;
+    grid-template-columns: 10%;
+    padding-left: 50%;
+ }
+ #name{
+    display: flex;
+    gap: 5%;
+ }
+ #email{
+    display: flex;
+    gap: 5%;
+ }
+ #Inquiry{
+    display: flex;
+    gap: 5%;
+ }
+ #order{
+    display: flex;
+    gap: 5%;
+ }
+ #button{
+    text-align: center;
+    padding-left: 10%;
+    color: beige;
+
+ }
